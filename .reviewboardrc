@@ -1,0 +1,5 @@
+# This is a change to test cmportal change order working concurrently with the new reviewboard change order
+REVIEWBOARD_URL = "http://reviewboard-test.corp.fortinet.com"
+REPOSITORY = "test_git"
+ENABLE_PROXY = False
+
